@@ -8,4 +8,4 @@ A collection of my solutions to SQL problems on LeetCode. This repository serves
 
 ## PostgreSQL Specific Solutions
 
-All of the solutions in this repository are solved using PostgreSQL. Features used in this repository include:
+All of the solutions in this repository are solved using PostgreSQL.
